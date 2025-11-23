@@ -1,0 +1,1 @@
+add_executable(test_sensors test_sensors.cpp)
