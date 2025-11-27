@@ -3,3 +3,7 @@
 //
 
 #include "TemperatureSensor.h"
+
+float TemperatureSensor::read() {
+    return 25.0f; //valeur valable le temps du "Run"
+}
